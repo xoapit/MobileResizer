@@ -1,0 +1,10 @@
+C:\Users\Xoapit\source\repos\MobileResizer\MobileResizer\bin\Debug\MobileResizer.exe.config
+C:\Users\Xoapit\source\repos\MobileResizer\MobileResizer\bin\Debug\MobileResizer.exe
+C:\Users\Xoapit\source\repos\MobileResizer\MobileResizer\bin\Debug\MobileResizer.pdb
+C:\Users\Xoapit\source\repos\MobileResizer\MobileResizer\obj\Debug\MobileResizer.csprojAssemblyReference.cache
+C:\Users\Xoapit\source\repos\MobileResizer\MobileResizer\obj\Debug\MobileResizer.MainForm.resources
+C:\Users\Xoapit\source\repos\MobileResizer\MobileResizer\obj\Debug\MobileResizer.Properties.Resources.resources
+C:\Users\Xoapit\source\repos\MobileResizer\MobileResizer\obj\Debug\MobileResizer.csproj.GenerateResource.cache
+C:\Users\Xoapit\source\repos\MobileResizer\MobileResizer\obj\Debug\MobileResizer.csproj.CoreCompileInputs.cache
+C:\Users\Xoapit\source\repos\MobileResizer\MobileResizer\obj\Debug\MobileResizer.exe
+C:\Users\Xoapit\source\repos\MobileResizer\MobileResizer\obj\Debug\MobileResizer.pdb
